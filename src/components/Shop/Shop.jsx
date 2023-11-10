@@ -22,7 +22,7 @@ const Shop = () => {
     // console.log(pages)
 
     const pages = [...Array(numberOfPages).keys()]
-    console.log(pages)
+    // console.log(pages)
 
 
     useEffect(() => {
